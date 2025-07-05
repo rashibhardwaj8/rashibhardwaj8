@@ -1,16 +1,15 @@
 ## Hi there 👋
+<h1 align="center">Hi 👋, I'm Rashi Bhardwaj</h1>
+<h3 align="center">🌟 BTech CSE (AI & ML) | 💻 Aspiring Data Analyst | 📊 SQL • Python • Power BI | 🌱 Learning Everyday!</h3>
 
-<!--
-**rashibhardwaj8/rashibhardwaj8** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+- 🔭 I’m currently working on *Python Projects & Data Dashboards*
+- 🌱 I’m currently learning *SQL, Python, Power BI*
+- 👯 I’m looking to collaborate on *open source & real-world analytics projects*
+- 💬 Ask me about *data analysis, data visualization, student life*
+- 📫 How to reach me: *rashibhardwajj08@gmail.com*
+- ⚡ Fun fact: I learn faster when I teach others :)
 
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+📈 My GitHub Stats:
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=rashibhardwaj8&show_icons=true&theme=radical" />
+</p>
